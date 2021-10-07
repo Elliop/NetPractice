@@ -36,3 +36,11 @@ The project teaches how to connect virtual networks to each other using routers,
     <h3>Solution</h3>
     <img src="https://github.com/Elliop/NetPractice/blob/main/img/Solution4.png" alt="Solution4"></img>
 </details>
+
+<details>
+    <summary>Level 5</summary>
+    <h3>Exercise</h3>
+    <img src="https://github.com/Elliop/NetPractice/blob/main/img/Exercise5.png" alt="Exercise5"></img>
+    <h3>Solution</h3>
+    <img src="https://github.com/Elliop/NetPractice/blob/main/img/Solution5.png" alt="Solution5"></img>
+</details>
